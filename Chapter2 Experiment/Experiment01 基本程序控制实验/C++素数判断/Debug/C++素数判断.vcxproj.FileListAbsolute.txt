@@ -1,0 +1,2 @@
+E:\第五学期\C++\OOP_Homework\Chapter2 Experiment\Experiment01\C++素数判断\Debug\C++素数判断.exe
+E:\第五学期\C++\OOP_Homework\Chapter2 Experiment\Experiment01 基本程序控制实验\C++素数判断\Debug\C++素数判断.exe
