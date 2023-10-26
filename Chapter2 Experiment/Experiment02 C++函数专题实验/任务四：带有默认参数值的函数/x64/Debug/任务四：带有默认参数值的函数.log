@@ -1,0 +1,14 @@
+﻿  源.cpp
+E:\第五学期\C++\OOP_Homework\Chapter2 Experiment\Experiment02 C++函数专题实验\任务四：带有默认参数值的函数\源.cpp(8,48): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\第五学期\C++\OOP_Homework\Chapter2 Experiment\Experiment02 C++函数专题实验\任务四：带有默认参数值的函数\源.cpp(8,30): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+E:\第五学期\C++\OOP_Homework\Chapter2 Experiment\Experiment02 C++函数专题实验\任务四：带有默认参数值的函数\源.cpp(20,44): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\第五学期\C++\OOP_Homework\Chapter2 Experiment\Experiment02 C++函数专题实验\任务四：带有默认参数值的函数\源.cpp(20,30): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  任务四：带有默认参数值的函数.vcxproj -> E:\第五学期\C++\OOP_Homework\Chapter2 Experiment\Experiment02 C++函数专题实验\任务一：const与指针\x64\Debug\任务四：带有默认参数值的函数.exe

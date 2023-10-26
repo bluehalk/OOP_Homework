@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务一：const与指针", "任务一：const与指针.vcxproj", "{945382DC-5FF1-4DB7-882F-E59AE9378FAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务三 内联函数", "..\任务三 内联函数\任务三 内联函数.vcxproj", "{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务四：带有默认参数值的函数", "..\任务四：带有默认参数值的函数\任务四：带有默认参数值的函数.vcxproj", "{8CB6B847-F254-4B23-8BBE-A867AB70AF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Debug|x64.ActiveCfg = Debug|x64
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Debug|x64.Build.0 = Debug|x64
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Debug|x86.Build.0 = Debug|Win32
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Release|x64.ActiveCfg = Release|x64
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Release|x64.Build.0 = Release|x64
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Release|x86.ActiveCfg = Release|Win32
+		{945382DC-5FF1-4DB7-882F-E59AE9378FAF}.Release|x86.Build.0 = Release|Win32
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Debug|x64.ActiveCfg = Debug|x64
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Debug|x64.Build.0 = Debug|x64
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Debug|x86.Build.0 = Debug|Win32
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Release|x64.ActiveCfg = Release|x64
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Release|x64.Build.0 = Release|x64
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Release|x86.ActiveCfg = Release|Win32
+		{1BE2C249-BF86-4AAD-8BC3-868B0C2E155C}.Release|x86.Build.0 = Release|Win32
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Debug|x64.ActiveCfg = Debug|x64
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Debug|x64.Build.0 = Debug|x64
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Debug|x86.ActiveCfg = Debug|Win32
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Debug|x86.Build.0 = Debug|Win32
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Release|x64.ActiveCfg = Release|x64
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Release|x64.Build.0 = Release|x64
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Release|x86.ActiveCfg = Release|Win32
+		{8CB6B847-F254-4B23-8BBE-A867AB70AF52}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53219147-3A50-4ADE-855C-DFA149D8F6EE}
+	EndGlobalSection
+EndGlobal
